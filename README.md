@@ -5,7 +5,7 @@ A Project for Social Network Analysis, DWs, Auth, MSc
 
 'ICM Evaluation3.ipynb' how the IC model behaves on different datasets. Evaluated by Pearson Correlation
 
-# Contributions - WHO DID WHAT
+# Contributions
 
 Eleni Apsemidou:
 Study of CDLib and NDLib libraries and development of 1)IterAnalysis 2)Main functions
