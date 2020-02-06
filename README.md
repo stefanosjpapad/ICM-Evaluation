@@ -1,7 +1,9 @@
-# ICM-Evaluation - WHO DID WHAT
+# ICM-Evaluation 
 Project for Social Network Analysis, DWs, Auth, MSc
 
 The file: 'ICM Evaluation1.2.ipynb' includes the evaluation of 
+
+#Contributions - WHO DID WHAT
 
 Eleni Apsemidou:
 Study of CDLib and NDLib libraries and functions 1)IterAnalysis 2)Main
